@@ -1,1 +1,1 @@
-welcome to wize 
+Welcome to Wize 
